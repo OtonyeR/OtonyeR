@@ -1,7 +1,17 @@
-### Hi there 👋
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/OtonyeR/OtonyeR/blob/main/assets/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.png"/></a>
+
+
+Technologies
+<img src="https://github.com/OtonyeR/OtonyeR/blob/main/assets/flutter.svg" alt="Hugo" align=left width=24 height=24>
+
+
 
 <!--
 **OtonyeR/OtonyeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
