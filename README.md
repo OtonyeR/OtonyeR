@@ -6,7 +6,7 @@
 <div style="display:flex;   width: max-width;
             align-items: center;
             justify-content: center;">
-<div>
+<div width="40px">
 <h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a junior Front-End developer and mobile application developer. <br> I've come to really love working with ReactJS and Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
 </div>
 <img src="assets\noodles-GIF-by-Pusheen-unscreen.gif"/>
@@ -32,7 +32,6 @@
 <div>
 <div>
 <h3>Languages</h3>
-<br>
 <p style= "word-spacing: 15px;">
 <img src="assets\html5.svg" width="50px"/>  
 <img src="assets\css3.svg" width="50px"/> 
@@ -41,10 +40,7 @@
 <img src="assets\python.svg" width="50px"/>  
 <img src="assets\c.svg" width="50px"/>
 </p>
-<br>
-<br>
 <h3>Frameworks/Libraries</h3>
-<br>
 <p style= "word-spacing: 15px;">
 <img src="assets\flutter.svg" width="50px"/> 
 <img src="assets\bootstrap.svg" width="50px"/> 
@@ -52,10 +48,7 @@
 <img src="assets\tailwindcss.svg"width="50px"/> 
 <img src="assets\rasa.svg" width="50px"/>
 </p>
-<br>
-<br>
 <h3>Tools</h3>
-<br>
 <p style= "word-spacing: 15px;"><img src="assets\figma.svg" width="50px"/> 
 <img src="assets\git.svg" width="50px"/> 
 <img src="assets\wordpress.svg" width="50px"/> 
@@ -69,7 +62,7 @@
 
 <hr>
 <div  style="display:flex;   
-flex-direction: column;
+flex-direction: row;
 width: max-width;
             align-items: center;
             justify-content: space-evenly;">
@@ -84,8 +77,8 @@ width="50px"/></a>
 width="50px"/></a>
 </p>
 </div>
-<div>
- <img width="350px" align="center" src="assets\Thank-U-Laughing-GIF-by-Pushee-unscreen.gif" 
+<div style="float:right">
+ <img width="250px" align="center" src="assets\Thank-U-Laughing-GIF-by-Pushee-unscreen.gif" 
 width="50px"/>
 </div>
 </div>
