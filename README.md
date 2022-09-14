@@ -1,8 +1,97 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/OtonyeR/OtonyeR/blob/main/assets/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.png"/></a>
+
+<h1 style="text-align: left;">Hi, I'm Otonye</h1>
+<img align="center" src="assets\Pink and Purple Professional LinkedIn Banner.png"/>
 
 
-Technologies
-<img src="https://github.com/OtonyeR/OtonyeR/blob/main/assets/flutter.svg" alt="Hugo" align=left width=24 height=24>
+<div style="display:flex;   width: max-width;
+            align-items: center;
+            justify-content: center;">
+<div>
+<h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a junior Front-End developer and mobile application developer. <br> I've come to really love working with ReactJS and Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
+</div>
+<img src="assets\noodles-GIF-by-Pusheen-unscreen.gif"/>
+</div>
+<hr>
+
+<div  style="display:flex;   width: max-width;
+            align-items: center;
+            justify-content: center;">
+
+<div>
+
+<h2 style=" color: white;">I'm Learning...</h2>
+
+<h4 style="text-align: left; color: white;">I'm also currently enrolled in the Software Engineering program provided by ALX Africa through Holberton School. It's a 12-month intensive program to equip future Software Engineers! You can find my projects and assignment repos.</h4>
+</div>
+<div>
+<img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
+</div>
+</div>
+<hr>
+<h2 style=" color: white;"> Technologies I work with </h2>
+<div>
+<div>
+<h3>Languages</h3>
+<br>
+<p style= "word-spacing: 15px;">
+<img src="assets\html5.svg" width="50px"/>  
+<img src="assets\css3.svg" width="50px"/> 
+<img src="assets\dart.svg" width="50px"/>  
+<img src="assets\javascript.svg" width="50px"/>  
+<img src="assets\python.svg" width="50px"/>  
+<img src="assets\c.svg" width="50px"/>
+</p>
+<br>
+<br>
+<h3>Frameworks/Libraries</h3>
+<br>
+<p style= "word-spacing: 15px;">
+<img src="assets\flutter.svg" width="50px"/> 
+<img src="assets\bootstrap.svg" width="50px"/> 
+<img src="assets\react.svg" width="50px"/> 
+<img src="assets\tailwindcss.svg"width="50px"/> 
+<img src="assets\rasa.svg" width="50px"/>
+</p>
+<br>
+<br>
+<h3>Tools</h3>
+<br>
+<p style= "word-spacing: 15px;"><img src="assets\figma.svg" width="50px"/> 
+<img src="assets\git.svg" width="50px"/> 
+<img src="assets\wordpress.svg" width="50px"/> 
+<img src="assets\firebase.svg" width="50px"/>
+
+</p>
+</div>
+
+<hr>
+<h2 style="color:"white">💬  Sometimes I like to write on <a href="https://dawndev.hashnode.dev/"> Hashnode...</a></h2>
+
+<hr>
+<div  style="display:flex;   
+flex-direction: column;
+width: max-width;
+            align-items: center;
+            justify-content: space-evenly;">
+<div>
+<h3> I'm open to collaborations and new friends </h2>
+<p style= "word-spacing: 30px; color:"white">
+<a href="https://www.showwcase.com/otonyedev"><img align="center" src="assets\showwcase.png" 
+width="100px"/></a>
+<a href="https://www.linkedin.com/in/otonye-robinson"> <img align="center" src="assets\linkedin.svg" 
+width="50px"/></a>
+<a href="https://twitter.com/kingdawndev"> <img align="center" src="assets\twitter.svg" 
+width="50px"/></a>
+</p>
+</div>
+<div>
+ <img width="350px" align="center" src="assets\Thank-U-Laughing-GIF-by-Pushee-unscreen.gif" 
+width="50px"/>
+</div>
+</div>
+<h3><em>Fun fact: I love cats and cake<em></h3>
+
+
 
 
 
