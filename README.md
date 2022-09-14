@@ -61,11 +61,7 @@
 <h2 style="color:"white">💬  Sometimes I like to write on <a href="https://dawndev.hashnode.dev/"> Hashnode...</a></h2>
 
 <hr>
-<div  style="display:flex;   
-flex-direction: row;
-width: max-width;
-            align-items: center;
-            justify-content: space-evenly;">
+
 <div>
 <h3> I'm open to collaborations and new friends </h2>
 <p style= "word-spacing: 30px; color:"white">
@@ -77,11 +73,12 @@ width="50px"/></a>
 width="50px"/></a>
 </p>
 </div>
-<div style="float:right">
- <img width="250px" align="center" src="assets\Thank-U-Laughing-GIF-by-Pushee-unscreen.gif" 
-width="50px"/>
+
+<div style="margin:auto;">
+<img width="250px" src="assets\Thank-U-Laughing-GIF-by-Pushee-unscreen.gif" width="50px"/>
 </div>
-</div>
+
+
 <h3><em>Fun fact: I love cats and cake<em></h3>
 
 
