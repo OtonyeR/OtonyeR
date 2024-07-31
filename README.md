@@ -21,7 +21,7 @@
 
 <h2 style=" color: white;">I'm Learning...</h2>
 
-<h4 style="text-align: left; color: white;">I'm also currently enrolled in the Software Engineering program provided by ALX Africa through Holberton School. It's a 12-month intensive program to equip future Software Engineers! You can find my projects and assignment repos.</h4>
+<h4 style="text-align: left; color: white;">I'm also currently enrolled on the HNG internship under the mobile track! You can find my projects and task repos.</h4>
 </div>
 <div>
 <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
