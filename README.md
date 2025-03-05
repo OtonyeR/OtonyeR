@@ -59,7 +59,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 🔐 Veritag (Authentication & Security)  
+## 🔐 Veritag (App that leverages NFC technology to ensure product authenticity and product tracking)  
 <div align="center">
     <img src="assets/Veritag%201.jpg" width="20%">
     <img src="assets/Veritag%202.jpg" width="20%">
@@ -68,14 +68,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 🎭 BRAVE  
-<div align="center">
-    <img src="assets/BRAVE.jpg" width="20%">
-</div>  
-
----
-
-## 🗺️ Ada. (Navigation & Image Recognition)  
+## 🗺️ Ada. (First Aid and Emmergency AI Assistant)  
 <div align="center">
     <img src="assets/Ada.%20-%20Home.jpg" width="20%">
     <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="20%">
@@ -86,29 +79,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 📻 Garden City Radio (GCR)  
-<div align="center">
-    <img src="assets/GCR%201.jpg" width="20%">
-    <img src="assets/GCR%202.jpg" width="20%">
-</div>  
-
----
-
-## 🍔 HebronEats (Food Delivery App)  
-<div align="center">
-    <img src="assets/hebronEats.jpg" width="20%">
-</div>  
-
----
-
-## 🎓 HNG Internship  
-<div align="center">
-    <img src="assets/HNG.jpeg" width="20%">
-</div>  
-
----
-
-## 🎬 LA FIN  
+## 🎬 LA FIN (Simple Store App)
 <div align="center">
     <img src="assets/LA%20FIN%201.jpg" width="20%">
     <img src="assets/LA%20FIN%202.jpg" width="20%">
@@ -123,7 +94,27 @@ Here are some of the projects I've worked on:
     <img src="assets/Litaffi%203.jpg" width="20%">
 </div>  
 
+---
 
+## 📻 Radio Streaming App for GCR
+<div align="center">
+    <img src="assets/GCR%201.jpg" width="20%">
+    <img src="assets/GCR%202.jpg" width="20%">
+</div>  
+
+---
+
+## 🍔 HebronEats (Food Delivery App for Covenant University)  
+<div align="center">
+    <img src="assets/hebronEats.jpg" width="20%">
+</div>  
+
+---
+
+## 🎭 Login UI of a Banking App
+<div align="center">
+    <img src="assets/BRAVE.jpg" width="20%">
+</div>  
 
 </div>
 <div>
@@ -134,7 +125,7 @@ Here are some of the projects I've worked on:
 <div align="center">
   <h2>⚡ Fact About Me </h2>
   <p><strong>I am a HNG Finalist</strong></p>
-  <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
+  <img src="assets/HNG.jpeg" width="20%">
 </div>
 
 
