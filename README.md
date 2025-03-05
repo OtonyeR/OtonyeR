@@ -32,15 +32,104 @@
 🔹 **[AR Treasure Hunt Game](https://github.com/your-repo-link)** – Augmented reality game using Flutter & ARCore.  
 🔹 **[Authentication Flow](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
 
-<h2 style=" color: white;">✨ Projects Showcase ✨</h2>
-
-
 
 </div>
 <div>
 <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
 </div>
 </div>
+
+<div  style="display:flex;   width: max-width;
+            align-items: center;
+            justify-content: center;">
+
+<div>
+
+<h2 style=" color: white;">✨ Projects Showcase ✨</h2>
+
+Here are some of the projects I've worked on:  
+
+## 🛒 Malltiverse (E-commerce App)  
+### Home  
+![Malltiverse Home](assets/Malltiverse%20-%20Home.jpg)  
+### Cart  
+![Malltiverse Cart](assets/Malltiverse%20-%20Cart.jpg)  
+### Wishlist  
+![Malltiverse Wishlist](assets/Malltiverse%20-%20Wishlist.jpg)  
+### Checkout  
+![Malltiverse Checkout](assets/Malltiverse%20-%20Checkout.jpg)  
+
+---
+
+## 🔐 Veritag (Authentication & Security)  
+### Screen 1  
+![Veritag 1](assets/Veritag%201.jpg)  
+### Screen 2  
+![Veritag 2](assets/Veritag%202.jpg)  
+### Screen 3  
+![Veritag 3](assets/Veritag%203.jpg)  
+
+---
+
+## 🎭 BRAVE  
+![BRAVE](assets/BRAVE.jpg)  
+
+---
+
+## 🗺️ Ada. (Navigation & Image Recognition)  
+### Home  
+![Ada Home](assets/Ada.%20-%20Home.jpg)  
+### Nearby Places  
+![Ada Nearby Places](assets/Ada.%20-%20Nearby%20Places.jpg)  
+### Directions  
+![Ada Directions](assets/Ada.%20-%20directions.jpg)  
+### Image Recognition  
+![Ada Image Rec](assets/Ada.%20-%20image%20rec.jpg)  
+### Onboarding  
+![Ada Onboarding](assets/Ada.%20-%20Onboarding.jpg)  
+
+---
+
+## 📻 Garden City Radio (GCR)  
+![GCR 1](assets/GCR%201.jpg)  
+![GCR 2](assets/GCR%202.jpg)  
+
+---
+
+## 🍔 HebronEats (Food Delivery App)  
+![HebronEats](assets/hebronEats.jpg)  
+
+---
+
+## 🎓 HNG Internship  
+![HNG](assets/HNG.jpeg)  
+
+---
+
+## 🎬 LA FIN  
+![LA FIN 1](assets/LA%20FIN%201.jpg)  
+![LA FIN 2](assets/LA%20FIN%202.jpg)  
+
+---
+
+## 📚 Litaffi (Bookstore App)  
+![Litaffi 1](assets/Litaffi.jpg)  
+![Litaffi 2](assets/Littafi%202.jpg)  
+![Litaffi 3](assets/Litaffi%203.jpg) 
+
+</div>
+<div>
+<img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
+</div>
+</div>
+
+<div align="center">
+  <h2>⚡ Fact About Me </h2>
+  <p><strong>I am a HNG Finalist</strong></p>
+  <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
+</div>
+
+
 <hr>
 <h2 style=" color: white;"> Technologies I work with </h2>
 <div>
