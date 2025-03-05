@@ -7,7 +7,7 @@
             align-items: center;
             justify-content: center;">
 <div width="40px">
-<h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a junior Mobile Engineer <br> I've come to really love working with Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
+<h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a **Junior Flutter Developer & IT Engineer** <br> I've come to really love working with Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
 </div>
 <img src="assets\noodles-GIF-by-Pusheen-unscreen.gif"/>
 </div>
@@ -19,9 +19,19 @@
 
 <div>
 
-<h2 style=" color: white;">I'm Learning...</h2>
+<h2 style=" color: white;"> 🔹 What I Work On </h2>
 
-<h4 style="text-align: left; color: white;">I'm also currently enrolled on the HNG internship under the mobile track! You can find my projects and task repos.</h4>
+- 📱 **Mobile Development** – Flutter (Riverpod, Provider, Bloc), ARCore, Firebase  
+- 🌍 **API Integration** – RESTful APIs, Dio, GraphQL  
+- 🛠 **State Management** – Riverpod, Provider, Redux  
+- 🔐 **Authentication** – Firebase Auth, Biometric Login  
+- 🎨 **UI/UX** – Material Design, animations, custom widgets
+
+## 📌 Featured Projects  
+🔹 **[Timbu Store App](https://github.com/your-repo-link)** – A Flutter-based eCommerce app using Riverpod and API integration.  
+🔹 **[AR Treasure Hunt Game](https://github.com/your-repo-link)** – Augmented reality game using Flutter & ARCore.  
+🔹 **[Authentication Flow](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+
 </div>
 <div>
 <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
