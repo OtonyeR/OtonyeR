@@ -124,8 +124,8 @@ Here are some of the projects I've worked on:
 
 <div align="center">
   <h2>⚡ Fact About Me </h2>
-  <p><strong>I am a HNG Finalist</strong></p>
-  <img src="assets/HNG.jpeg" width="20%">
+  <p><strong>I am an HNG Finalist</strong></p>
+  <img src="assets/HNG.jpeg" width="60%">
 </div>
 
 
