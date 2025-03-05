@@ -47,75 +47,90 @@
 
 <h2 style=" color: white;">✨ Projects Showcase ✨</h2>
 
+# 🚀 My Projects Showcase  
+
 Here are some of the projects I've worked on:  
 
 ## 🛒 Malltiverse (E-commerce App)  
-### Home  
-![Malltiverse Home](assets/Malltiverse%20-%20Home.jpg)  
-### Cart  
-![Malltiverse Cart](assets/Malltiverse%20-%20Cart.jpg)  
-### Wishlist  
-![Malltiverse Wishlist](assets/Malltiverse%20-%20Wishlist.jpg)  
-### Checkout  
-![Malltiverse Checkout](assets/Malltiverse%20-%20Checkout.jpg)  
+<div align="center">
+    <img src="assets/Malltiverse%20-%20Home.jpg" width="30%">
+    <img src="assets/Malltiverse%20-%20Cart.jpg" width="30%">
+    <img src="assets/Malltiverse%20-%20Wishlist.jpg" width="30%">
+</div>  
+
+<div align="center">
+    <img src="assets/Malltiverse%20-%20Checkout.jpg" width="30%">
+</div>  
 
 ---
 
 ## 🔐 Veritag (Authentication & Security)  
-### Screen 1  
-![Veritag 1](assets/Veritag%201.jpg)  
-### Screen 2  
-![Veritag 2](assets/Veritag%202.jpg)  
-### Screen 3  
-![Veritag 3](assets/Veritag%203.jpg)  
+<div align="center">
+    <img src="assets/Veritag%201.jpg" width="30%">
+    <img src="assets/Veritag%202.jpg" width="30%">
+    <img src="assets/Veritag%203.jpg" width="30%">
+</div>  
 
 ---
 
 ## 🎭 BRAVE  
-![BRAVE](assets/BRAVE.jpg)  
+<div align="center">
+    <img src="assets/BRAVE.jpg" width="40%">
+</div>  
 
 ---
 
 ## 🗺️ Ada. (Navigation & Image Recognition)  
-### Home  
-![Ada Home](assets/Ada.%20-%20Home.jpg)  
-### Nearby Places  
-![Ada Nearby Places](assets/Ada.%20-%20Nearby%20Places.jpg)  
-### Directions  
-![Ada Directions](assets/Ada.%20-%20directions.jpg)  
-### Image Recognition  
-![Ada Image Rec](assets/Ada.%20-%20image%20rec.jpg)  
-### Onboarding  
-![Ada Onboarding](assets/Ada.%20-%20Onboarding.jpg)  
+<div align="center">
+    <img src="assets/Ada.%20-%20Home.jpg" width="30%">
+    <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="30%">
+    <img src="assets/Ada.%20-%20directions.jpg" width="30%">
+</div>  
+
+<div align="center">
+    <img src="assets/Ada.%20-%20image%20rec.jpg" width="30%">
+    <img src="assets/Ada.%20-%20Onboarding.jpg" width="30%">
+</div>  
 
 ---
 
 ## 📻 Garden City Radio (GCR)  
-![GCR 1](assets/GCR%201.jpg)  
-![GCR 2](assets/GCR%202.jpg)  
+<div align="center">
+    <img src="assets/GCR%201.jpg" width="40%">
+    <img src="assets/GCR%202.jpg" width="40%">
+</div>  
 
 ---
 
 ## 🍔 HebronEats (Food Delivery App)  
-![HebronEats](assets/hebronEats.jpg)  
+<div align="center">
+    <img src="assets/hebronEats.jpg" width="40%">
+</div>  
 
 ---
 
 ## 🎓 HNG Internship  
-![HNG](assets/HNG.jpeg)  
+<div align="center">
+    <img src="assets/HNG.jpeg" width="40%">
+</div>  
 
 ---
 
 ## 🎬 LA FIN  
-![LA FIN 1](assets/LA%20FIN%201.jpg)  
-![LA FIN 2](assets/LA%20FIN%202.jpg)  
+<div align="center">
+    <img src="assets/LA%20FIN%201.jpg" width="40%">
+    <img src="assets/LA%20FIN%202.jpg" width="40%">
+</div>  
 
 ---
 
 ## 📚 Litaffi (Bookstore App)  
-![Litaffi 1](assets/Litaffi.jpg)  
-![Litaffi 2](assets/Littafi%202.jpg)  
-![Litaffi 3](assets/Litaffi%203.jpg) 
+<div align="center">
+    <img src="assets/Litaffi.jpg" width="30%">
+    <img src="assets/Littafi%202.jpg" width="30%">
+    <img src="assets/Litaffi%203.jpg" width="30%">
+</div>  
+
 
 </div>
 <div>
