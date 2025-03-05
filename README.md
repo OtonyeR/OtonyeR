@@ -28,10 +28,10 @@
 - 🎨 **UI/UX** – Material Design, animations, custom widgets
 
 ## 📌 Featured Projects  
-🔹 **[Malltivere]([https://github.com/your-repo-link](https://github.com/OtonyeR/Malltiverse))** – A Flutter-based eCommerce app using Riverpod and API integration.  
+🔹 **[Malltivere](https://github.com/OtonyeR/Malltiverse)** – A Flutter-based eCommerce app using Riverpod and API integration.  
 🔹 **[VeriTag](https://github.com/OtonyeR/veritag_app)** – Augmented reality game using Flutter & ARCore.  
-🔹 **[HebronEats](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
-🔹 **[ADA](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+🔹 **[HebronEats](https://github.com/OtonyeR/HebronEats)** – Secure login system with biometric authentication.  
+🔹 **[ADA](https://github.com/OtonyeR/ada)** – Secure login system with biometric authentication.  
 
 
 
