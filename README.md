@@ -90,7 +90,7 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 📚 Litaffi (Bookstore App)  
+## 📚 Litaffi (Ebook Reader and Sharing App)  
 <div align="center">
     <img src="assets/Litaffi.jpg" width="20%">
     <img src="assets/Littafi%202.jpg" width="20%">
