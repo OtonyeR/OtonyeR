@@ -82,14 +82,14 @@ Here are some of the projects I've worked on:
 
 ## 🗺️ Ada. (Navigation & Image Recognition)  
 <div align="center">
-    <img src="assets/Ada.%20-%20Home.jpg" width="30%">
-    <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="30%">
-    <img src="assets/Ada.%20-%20directions.jpg" width="30%">
+    <img src="assets/Ada.%20-%20Home.jpg" width="10%">
+    <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="10%">
+    <img src="assets/Ada.%20-%20directions.jpg" width="10%">
 </div>  
 
 <div align="center">
-    <img src="assets/Ada.%20-%20image%20rec.jpg" width="30%">
-    <img src="assets/Ada.%20-%20Onboarding.jpg" width="30%">
+    <img src="assets/Ada.%20-%20image%20rec.jpg" width="10%">
+    <img src="assets/Ada.%20-%20Onboarding.jpg" width="10%">
 </div>  
 
 ---
