@@ -72,7 +72,7 @@ Here are some of the projects I've worked on:
 <div align="center">
     <img src="assets/Ada.%20-%20Home.jpg" width="20%">
     <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="20%">
-    <img src="assets/Ada.%20-%20directions.jpg" width="20%">
+    <img src="assets/Ada.%20-%20dalert.jpg" width="20%">
     <img src="assets/Ada.%20-%20image%20rec.jpg" width="20%">
     <img src="assets/Ada.%20-%20Onboarding.jpg" width="20%">
 </div>  
