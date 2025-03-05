@@ -32,15 +32,104 @@
 🔹 **[AR Treasure Hunt Game](https://github.com/your-repo-link)** – Augmented reality game using Flutter & ARCore.  
 🔹 **[Authentication Flow](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
 
-<h2 style=" color: white;">✨ Projects Showcase ✨</h2>
-
-
 
 </div>
 <div>
 <img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
 </div>
 </div>
+
+<div  style="display:flex;   width: max-width;
+            align-items: center;
+            justify-content: center;">
+
+<div>
+
+<h2 style=" color: white;">✨ Projects Showcase ✨</h2>
+
+Here are some of the projects I've worked on:  
+
+## 🛒 Malltiverse (E-commerce App)  
+<div align="center">
+    <img src="assets/Malltiverse%20-%20Home.jpg" width="20%">
+    <img src="assets/Malltiverse%20-%20Cart.jpg" width="20%">
+    <img src="assets/Malltiverse%20-%20Wishlist.jpg" width="20%">
+    <img src="assets/Malltiverse%20-%20Checkout.jpg" width="20%">
+</div>  
+
+---
+
+## 🔐 Veritag (App that leverages NFC technology to ensure product authenticity and product tracking)  
+<div align="center">
+    <img src="assets/Veritag%201.jpg" width="20%">
+    <img src="assets/Veritag%202.jpg" width="20%">
+    <img src="assets/Veritag%203.jpg" width="20%">
+</div>  
+
+---
+
+## 🗺️ Ada. (First Aid and Emmergency AI Assistant)  
+<div align="center">
+    <img src="assets/Ada.%20-%20Home.jpg" width="20%">
+    <img src="assets/Ada.%20-%20Nearby%20Places.jpg" width="20%">
+    <img src="assets/Ada.%20-%20alert 1.jpg" width="20%">
+<img src="assets/Ada.%20-%20alert 2.jpg" width="20%">
+    <img src="assets/Ada.%20-%20image%20rec.jpg" width="20%">
+    <img src="assets/Ada.%20-%20Onboarding.jpg" width="20%">
+</div>  
+
+---
+
+## 🎬 LA FIN (Simple Store App)
+<div align="center">
+    <img src="assets/LA%20FIN%201.jpg" width="20%">
+    <img src="assets/LA%20FIN%202.jpg" width="20%">
+</div>  
+
+---
+
+## 📚 Litaffi (Bookstore App)  
+<div align="center">
+    <img src="assets/Litaffi.jpg" width="20%">
+    <img src="assets/Littafi%202.jpg" width="20%">
+    <img src="assets/Litaffi%203.jpg" width="20%">
+</div>  
+
+---
+
+## 📻 Radio Streaming App for GCR
+<div align="center">
+    <img src="assets/GCR%201.jpg" width="20%">
+    <img src="assets/GCR%202.jpg" width="20%">
+</div>  
+
+---
+
+## 🍔 HebronEats (Food Delivery App for Covenant University)  
+<div align="center">
+    <img src="assets/hebronEats.jpg" width="20%">
+</div>  
+
+---
+
+## 🎭 Login UI of a Banking App
+<div align="center">
+    <img src="assets/BRAVE.jpg" width="20%">
+</div>  
+
+</div>
+<div>
+<img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
+</div>
+</div>
+
+<div align="center">
+  <h2>⚡ Fact About Me </h2>
+  <p><strong>I am an HNG Finalist</strong></p>
+  <img src="assets/HNG.jpeg" width="60%">
+</div>
+
+
 <hr>
 <h2 style=" color: white;"> Technologies I work with </h2>
 <div>
