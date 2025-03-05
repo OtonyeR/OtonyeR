@@ -28,9 +28,11 @@
 - 🎨 **UI/UX** – Material Design, animations, custom widgets
 
 ## 📌 Featured Projects  
-🔹 **[Timbu Store App](https://github.com/your-repo-link)** – A Flutter-based eCommerce app using Riverpod and API integration.  
-🔹 **[AR Treasure Hunt Game](https://github.com/your-repo-link)** – Augmented reality game using Flutter & ARCore.  
-🔹 **[Authentication Flow](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+🔹 **[Malltivere]([https://github.com/your-repo-link](https://github.com/OtonyeR/Malltiverse))** – A Flutter-based eCommerce app using Riverpod and API integration.  
+🔹 **[VeriTag](https://github.com/OtonyeR/veritag_app)** – Augmented reality game using Flutter & ARCore.  
+🔹 **[HebronEats](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+🔹 **[ADA](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+
 
 
 </div>
@@ -117,9 +119,6 @@ Here are some of the projects I've worked on:
     <img src="assets/BRAVE.jpg" width="20%">
 </div>  
 
-</div>
-<div>
-<img src="assets\homework-studying-GIF-by-Pushe-unscreen.gif"/>
 </div>
 </div>
 
