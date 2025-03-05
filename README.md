@@ -7,7 +7,7 @@
             align-items: center;
             justify-content: center;">
 <div width="40px">
-<h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a **Junior Flutter Developer & IT Engineer** <br> I've come to really love working with Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
+<h3 style="text-align: center; color: white;">I'm very passionate about turning ideas and business solutions into code. <br> I'm a Junior Flutter Developer & IT Engineer <br> I've come to really love working with Flutter, and as a result <br> that's what most of my personal projects are currentlly based on<br> I hope to keep expanding my skill base as I grow and learn.</h3>
 </div>
 <img src="assets\noodles-GIF-by-Pusheen-unscreen.gif"/>
 </div>
@@ -31,6 +31,10 @@
 🔹 **[Timbu Store App](https://github.com/your-repo-link)** – A Flutter-based eCommerce app using Riverpod and API integration.  
 🔹 **[AR Treasure Hunt Game](https://github.com/your-repo-link)** – Augmented reality game using Flutter & ARCore.  
 🔹 **[Authentication Flow](https://github.com/your-repo-link)** – Secure login system with biometric authentication.  
+
+<h2 style=" color: white;">✨ Projects Showcase ✨</h2>
+
+
 
 </div>
 <div>
